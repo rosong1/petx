@@ -1,9 +1,10 @@
 {
   "name": "petx",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "An easy-to-use state management in React",
   "main": "./dist/petx.cjs",
   "module": "./dist/petx.mjs",
+  "files": ["dist/**"],
   "exports": {
     ".": {
       "require": "./dist/petx.cjs",
@@ -21,7 +22,9 @@
     "react",
     "typescript",
     "state-management",
-    "hooks"
+    "hooks",
+    "vite",
+    "vitest"
   ],
   "author": {
     "name": "rosong",
