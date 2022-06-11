@@ -1,6 +1,5 @@
 {
   "name": "petx",
-  "private": true,
   "version": "0.1.0",
   "description": "An easy-to-use state management in React",
   "main": "./dist/petx.cjs",
