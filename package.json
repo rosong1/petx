@@ -1,10 +1,13 @@
 {
   "name": "petx",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "An easy-to-use state management in React",
   "main": "./dist/petx.cjs",
   "module": "./dist/petx.mjs",
-  "files": ["dist/**"],
+  "files": [
+    "dist/**"
+  ],
+  "types": "./dist/index.d.ts",
   "exports": {
     ".": {
       "require": "./dist/petx.cjs",
