@@ -23,8 +23,15 @@
     "state-management",
     "hooks"
   ],
-  "author": "rousong111@gmail.com",
+  "author": {
+    "name": "rosong",
+    "email": "rousong111@gmail.com"
+  },
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rosong1/vite-require-images-to-import/issues"
+  },
+  "homepage": "https://github.com/rosong1/vite-require-images-to-import#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
