@@ -35,9 +35,9 @@
   },
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/rosong1/vite-require-images-to-import/issues"
+    "url": "https://github.com/rosong1/petx/issues"
   },
-  "homepage": "https://github.com/rosong1/vite-require-images-to-import#readme",
+  "homepage": "https://github.com/rosong1/petx#readme",
   "devDependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",
